@@ -1,0 +1,13 @@
+3.
+The results I found were mostly in line with my expectations. The main
+thing I found surprising was how low (relatively) the salaries of data
+scientists were. I think many of the disparities between how much we
+think a certain profession makes and how much the median income actually
+is can be explained by the prescence of outliers in the data. Additionally,
+the dataset groups similar jobs together in one entry, even though the
+specifics like income could be very different between similar but 
+distinct jobs.
+4.
+I would rank my top three choices as 1. Software Developer, 2. Computer
+Scientist, 3. Data Scientist. I think these jobs pay reasonably well 
+and also are jobs that I meet the requirements for. 
